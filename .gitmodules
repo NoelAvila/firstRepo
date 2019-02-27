@@ -1,0 +1,3 @@
+[submodule "new_sub"]
+	path = new_sub
+	url = https://github.com/NoelAvila/new_sub
